@@ -1,12 +1,12 @@
 stfu.
 =====
 
- - Short Term File Uploader ...and not what you think...
+"short term file uploader" ...and not what you think...
 
 What it is
 ----------
 
-Once deployed on an application server like tomcat, stfu. is just a simple spring webservice where you can upload files to. They are only stored for a very short time - handy when you just want to share something via an url and don´t want to waste disk space on an online server. 
+Once deployed on an application server like tomcat, stfu. acts as a simple spring webservice where you can upload files to. They are only stored for a very short time - handy when you just want to share something via an url and don´t want to waste disk space on an online server. 
 
 How to use it
 -------------
